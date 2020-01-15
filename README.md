@@ -1,3 +1,7 @@
+# Fork notes
+
+=> Addes missing msxsl.exe binary to the /bin folder.
+
 # Red Team Automation (RTA)
 
 RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after [MITRE ATT&CK](https://attack.mitre.org/wiki/ATT&CK_Matrix).
